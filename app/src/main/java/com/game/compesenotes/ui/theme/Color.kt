@@ -1,4 +1,4 @@
-package com.game.compesenotes.ui.theme
+package com.game.composenotes.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
